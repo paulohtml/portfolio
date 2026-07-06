@@ -1,4 +1,4 @@
-# Paulo Anghelo Magbanua — Portfolio
+# Paul Angelo Magbanua — Portfolio
 
 A modern, responsive software developer portfolio built with **Nuxt 3**, **Vue 3 (Composition API)**, and **TypeScript**.
 
